@@ -1,9 +1,9 @@
 name: Generar actividad de commits
 
 on:
-  workflow_dispatch: # Permite ejecutar el flujo de trabajo manualmente
-  schedule:
-    - cron: '0 0 * * *' # Se ejecuta diariamente a medianoche
+  push:
+    branches:
+      - main # Ejecuta el flujo de trabajo cuando hay un push en la rama 'main'
 
 jobs:
   generate-activity:

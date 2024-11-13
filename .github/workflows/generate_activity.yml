@@ -31,8 +31,10 @@ jobs:
             git add actividad.txt
             git commit -m "Commit $i-$j"
           done
-          # Formato de fecha compatible para GIT_COMMITTER_DATE
-          GIT_COMMITTER_DATE="$(date -d "$i days ago" +"%Y-%m-%dT%H:%M:%S")" GIT_AUTHOR_DATE="$GIT_COMMITTER_DATE" git commit --amend --no-edit --date "$GIT_COMMITTER_DATE"
+          # Formato de fecha para GIT_COMMITTER_DATE y GIT_AUTHOR_DATE
+          export GIT_COMMITTER_DATE="$(date -d "$i days ago" +"%Y-%m-%dT%H:%M:%SZ")"
+          export GIT_AUTHOR_DATE="$GIT_COMMITTER_DATE"
+          git commit --amend --no-edit --date "$GIT_COMMITTER_DATE"
         done
 
     - name: Hacer push de los commits

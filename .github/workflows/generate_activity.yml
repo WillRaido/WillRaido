@@ -1,0 +1,43 @@
+name: Generar actividad de commits
+
+on:
+  workflow_dispatch: # Permite ejecutar el flujo de trabajo manualmente
+  schedule:
+    - cron: '0 0 * * *' # Se ejecuta diariamente a medianoche
+
+jobs:
+  generate-activity:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Configurar variables
+      run: |
+        echo "TOTAL_DAY=366" >> $GITHUB_ENV
+        echo "COMMIT_FREQUENCY=10" >> $GITHUB_ENV
+
+    - name: Clonar repositorio
+      run: |
+        git clone https://github.com/WillRaido/WillRaido.git
+        cd WillRaido
+        git config user.name "William Quintero"
+        git config user.email "iwillraido@gmail.com"
+
+    - name: Generar commits
+      run: |
+        cd WillRaido
+        for i in $(seq 1 $TOTAL_DAY); do
+          for j in $(seq 1 $COMMIT_FREQUENCY); do
+            echo "$i-$j" >> actividad.txt
+            git add actividad.txt
+            git commit -m "Commit $i-$j"
+          done
+          # Retroceder un día en cada iteración
+          GIT_COMMITTER_DATE="$(date --date="$i days ago" +%Y-%m-%dT%H:%M:%S)" git commit --amend --no-edit --date "$GIT_COMMITTER_DATE"
+        done
+
+    - name: Hacer push de los commits
+      run: |
+        cd WillRaido
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}

@@ -99,12 +99,21 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillRaido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillRaido&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WillRaido&theme=tokyonight" alt="GitHub Streak" />
+<table>
+<tr>
+<td align="center" width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillRaido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</td>
+<td align="center" width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillRaido&layout=compact&langs_count=8&theme=tokyonight"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WillRaido&theme=tokyonight" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -114,32 +123,34 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### 🐙 GitHub Certifications
+[![GitHub Certifications](https://img.shields.io/badge/GitHub-5_Certifications-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillRaido)
+
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="80"/>
+<img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" height="100"/>
 <br><strong>GitHub Foundations</strong>
-<br><sub>Nov 2024</sub>
+<br><sub>🏅 Nov 2024</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="80"/>
+<img src="https://images.credly.com/size/150x150/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="100" height="100"/>
 <br><strong>GitHub Actions</strong>
-<br><sub>Dec 2024</sub>
+<br><sub>🏅 Dec 2024</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://images.credly.com/size/340x340/images/c1c2a525-211b-47e5-96ee-e5c03d7dfff1/image.png" width="80"/>
+<img src="https://images.credly.com/size/150x150/images/c1c2a525-211b-47e5-96ee-e5c03d7dfff1/image.png" width="100" height="100"/>
 <br><strong>GitHub Advanced Security</strong>
-<br><sub>Nov 2024</sub>
+<br><sub>🏅 Nov 2024</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://images.credly.com/size/340x340/images/4bf30179-618a-4c1a-9951-03da0e872c02/image.png" width="80"/>
+<img src="https://images.credly.com/size/150x150/images/4bf30179-618a-4c1a-9951-03da0e872c02/image.png" width="100" height="100"/>
 <br><strong>GitHub Copilot</strong>
-<br><sub>2024</sub>
+<br><sub>🏅 2024</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://images.credly.com/size/340x340/images/7907e7d4-71ee-43dd-aa4c-dcc0b61ebf98/image.png" width="80"/>
+<img src="https://images.credly.com/size/150x150/images/7907e7d4-71ee-43dd-aa4c-dcc0b61ebf98/image.png" width="100" height="100"/>
 <br><strong>GitHub Admin</strong>
-<br><sub>2024</sub>
+<br><sub>🏅 2024</sub>
 </td>
 </tr>
 </table>
@@ -148,24 +159,29 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="80"/>
-<br><strong>AWS Certified SysOps Administrator</strong>
-<br><sub>Associate - 2024</sub>
+<img src="https://images.credly.com/size/150x150/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100" height="100"/>
+<br><strong>AWS Certified SysOps</strong>
+<br><strong>Administrator Associate</strong>
+<br><sub>☁️ 2024</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/University_icon_education.svg/1024px-University_icon_education.svg.png" width="80"/>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/128/external-graduation-university-flaticons-flat-flat-icons.png" width="100" height="100"/>
 <br><strong>Systems Engineer</strong>
-<br><sub>University U Compensar - 2023</sub>
+<br><sub>University U Compensar</sub>
+<br><sub>🎓 2023</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/3002/3002543.png" width="80"/>
+<img src="https://img.icons8.com/external-filled-outline-icons-maxicons/128/external-english-language-learning-filled-outline-filled-outline-icons-maxicons.png" width="100" height="100"/>
 <br><strong>Advanced English</strong>
-<br><sub>Academy Australia - 2023</sub>
+<br><sub>Academy Australia</sub>
+<br><sub>🗣️ 2023</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2620/2620590.png" width="80"/>
-<br><strong>Engineering of Requirements</strong>
-<br><sub>ASESOFTWARE SAS - 2015</sub>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/128/external-requirements-agile-flaticons-lineal-color-flat-icons.png" width="100" height="100"/>
+<br><strong>Engineering of</strong>
+<br><strong>Requirements</strong>
+<br><sub>ASESOFTWARE SAS</sub>
+<br><sub>📋 2015</sub>
 </td>
 </tr>
 </table>
@@ -209,18 +225,26 @@ timeline
 
 ## 🔥 What I Do
 
-<div align="center">
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-| 🎯 **Core Expertise** | 📋 **Description** |
-|:---------------------|:-------------------|
-| **☁️ Cloud Architecture** | Design and implement scalable cloud solutions across AWS, Azure, and GCP |
-| **🔄 CI/CD Pipelines** | Build robust automation pipelines for continuous integration and delivery |
-| **🏗️ Infrastructure as Code** | Manage infrastructure using Terraform, CloudFormation, and Ansible |
-| **🐳 Containerization** | Docker and Kubernetes orchestration for microservices architectures |
-| **📊 Monitoring & Observability** | Implement comprehensive monitoring solutions with Datadog, Grafana, and more |
-| **🛡️ Security & Compliance** | DevSecOps practices ensuring security throughout the development lifecycle |
+### 🎯 **Core Expertise**
+- **☁️ Cloud Architecture** - Design and implement scalable cloud solutions across AWS, Azure, and GCP
+- **🔄 CI/CD Pipelines** - Build robust automation pipelines for continuous integration and delivery
+- **🏗️ Infrastructure as Code** - Manage infrastructure using Terraform, CloudFormation, and Ansible
 
-</div>
+</td>
+<td valign="top" width="50%">
+
+### 📋 **Specialized Skills**
+- **🐳 Containerization** - Docker and Kubernetes orchestration for microservices architectures
+- **📊 Monitoring & Observability** - Comprehensive monitoring with Datadog, Grafana, and more
+- **🛡️ Security & Compliance** - DevSecOps practices ensuring security throughout SDLC
+
+</td>
+</tr>
+</table>
 
 ---
 

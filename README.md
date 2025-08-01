@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **WillRaido/WillRaido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm William Quintero Torres
+# Hi there! 👋 I'm William Quintero
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Cloud+DevOps+Engineer;Site+Reliability+Engineer;AWS+Certified+SysOps;7%2B+Years+Experience;Passionate+about+Cloud+%26+DevOps" alt="Typing SVG" />
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-> **Seasoned DevOps & Cloud Engineer** with 7+ years in DevOps practices and 12+ years in diverse IT roles
+> **Seasoned DevOps & Cloud Engineer** with 8+ years in DevOps practices and 12+ years in diverse IT roles
 
 - 🌩️ **Cloud Architect** specializing in AWS, Azure, GCP
 - 🔧 **DevOps Enthusiast** passionate about automation and CI/CD

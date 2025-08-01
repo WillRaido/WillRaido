@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 </td>
 <td align="center" width="20%">
 <a href="https://www.credly.com/badges/github-advanced-security">
-<img src="https://images.credly.com/images/c1c2a525-211b-47e5-96ee-e5c03d7dfff1/image.png" width="100" height="100"/>
+<img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="100" height="100"/>
 </a>
 <br><strong>GitHub Advanced Security</strong>
 <br><sub>🏅 Nov 2024</sub>

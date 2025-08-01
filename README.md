@@ -128,35 +128,35 @@ Here are some ideas to get you started:
 <tr>
 <td align="center" width="20%">
 <a href="https://www.credly.com/badges/github-foundations">
-<img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" height="100"/>
+<img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" height="100"/>
 </a>
 <br><strong>GitHub Foundations</strong>
 <br><sub>🏅 Nov 2024</sub>
 </td>
 <td align="center" width="20%">
 <a href="https://www.credly.com/badges/github-actions">
-<img src="https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="100" height="100"/>
+<img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="100" height="100"/>
 </a>
 <br><strong>GitHub Actions</strong>
 <br><sub>🏅 Dec 2024</sub>
 </td>
 <td align="center" width="20%">
 <a href="https://www.credly.com/badges/github-advanced-security">
-<img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="100" height="100"/>
+<img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="100" height="100"/>
 </a>
 <br><strong>GitHub Advanced Security</strong>
 <br><sub>🏅 Nov 2024</sub>
 </td>
 <td align="center" width="20%">
 <a href="https://www.credly.com/badges/github-copilot">
-<img src="https://images.credly.com/images/4bf30179-618a-4c1a-9951-03da0e872c02/image.png" width="100" height="100"/>
+<img src="https://images.credly.com/size/340x340/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" width="100" height="100"/>
 </a>
 <br><strong>GitHub Copilot</strong>
 <br><sub>🏅 2024</sub>
 </td>
 <td align="center" width="20%">
 <a href="https://www.credly.com/badges/github-admin">
-<img src="https://images.credly.com/images/7907e7d4-71ee-43dd-aa4c-dcc0b61ebf98/image.png" width="100" height="100"/>
+<img src="https://images.credly.com/size/340x340/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="100" height="100"/>
 </a>
 <br><strong>GitHub Admin</strong>
 <br><sub>🏅 2024</sub>

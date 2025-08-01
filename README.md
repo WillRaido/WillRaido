@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there! 👋 I'm William Quintero Torres
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Cloud+DevOps+Engineer;Site+Reliability+Engineer;AWS+Certified+SysOps;7%2B+Years+Experience;Passionate+about+Cloud+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Cloud+DevOps+Engineer;Site+Reliability+Engineer;AWS+Certified+SysOps;8%2B+Years+Experience;Passionate+about+Cloud+%26+DevOps" alt="Typing SVG" />
 </div>
-
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-williamquintero.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.williamquintero.com)

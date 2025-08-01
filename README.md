@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm William Quintero
+# Hi there! 👋 I'm William Quintero Torres
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Cloud+DevOps+Engineer;Site+Reliability+Engineer;AWS+Certified+SysOps;7%2B+Years+Experience;Passionate+about+Cloud+%26+DevOps" alt="Typing SVG" />
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-> **Seasoned DevOps & Cloud Engineer** with 8+ years in DevOps practices and 12+ years in diverse IT roles
+> **Seasoned DevOps & Cloud Engineer** with 7+ years in DevOps practices and 12+ years in diverse IT roles
 
 - 🌩️ **Cloud Architect** specializing in AWS, Azure, GCP
 - 🔧 **DevOps Enthusiast** passionate about automation and CI/CD
@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -52,30 +54,45 @@ Here are some ideas to get you started:
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibm-cloud&logoColor=white)
 
+### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
+
+</td>
+<td valign="top" width="33%">
+
 ### 🔄 CI/CD & DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
 ### 🐳 Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
 
 ### 📊 Monitoring & Observability
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-</div>
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -96,14 +113,62 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Provider | 📅 Year |
-|:-----------------|:------------|:--------|
-| **AWS Certified SysOps Administrator Associate** | Amazon Web Services | 2024 |
-| **GitHub Foundation** | GitHub | 2024 |
-| **GitHub Advanced Security** | GitHub | 2024 |
-| **GitHub Actions** | GitHub | 2024 |
-| **Systems Engineer** | University U Compensar | 2023 |
-| **Advanced English** | Academy Australia | 2023 |
+### 🐙 GitHub Certifications
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="80"/>
+<br><strong>GitHub Foundations</strong>
+<br><sub>Nov 2024</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="80"/>
+<br><strong>GitHub Actions</strong>
+<br><sub>Dec 2024</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/340x340/images/c1c2a525-211b-47e5-96ee-e5c03d7dfff1/image.png" width="80"/>
+<br><strong>GitHub Advanced Security</strong>
+<br><sub>Nov 2024</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/340x340/images/4bf30179-618a-4c1a-9951-03da0e872c02/image.png" width="80"/>
+<br><strong>GitHub Copilot</strong>
+<br><sub>2024</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://images.credly.com/size/340x340/images/7907e7d4-71ee-43dd-aa4c-dcc0b61ebf98/image.png" width="80"/>
+<br><strong>GitHub Admin</strong>
+<br><sub>2024</sub>
+</td>
+</tr>
+</table>
+
+### ☁️ Cloud & Other Certifications
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="80"/>
+<br><strong>AWS Certified SysOps Administrator</strong>
+<br><sub>Associate - 2024</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/University_icon_education.svg/1024px-University_icon_education.svg.png" width="80"/>
+<br><strong>Systems Engineer</strong>
+<br><sub>University U Compensar - 2023</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/3002/3002543.png" width="80"/>
+<br><strong>Advanced English</strong>
+<br><sub>Academy Australia - 2023</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/2620/2620590.png" width="80"/>
+<br><strong>Engineering of Requirements</strong>
+<br><sub>ASESOFTWARE SAS - 2015</sub>
+</td>
+</tr>
+</table>
 
 </div>
 

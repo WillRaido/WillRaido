@@ -127,27 +127,37 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" height="100"/>
+<a href="https://www.credly.com/badges/github-foundations">
+<img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" height="100"/>
+</a>
 <br><strong>GitHub Foundations</strong>
 <br><sub>🏅 Nov 2024</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://images.credly.com/size/150x150/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="100" height="100"/>
+<a href="https://www.credly.com/badges/github-actions">
+<img src="https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="100" height="100"/>
+</a>
 <br><strong>GitHub Actions</strong>
 <br><sub>🏅 Dec 2024</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://images.credly.com/size/150x150/images/c1c2a525-211b-47e5-96ee-e5c03d7dfff1/image.png" width="100" height="100"/>
+<a href="https://www.credly.com/badges/github-advanced-security">
+<img src="https://images.credly.com/images/c1c2a525-211b-47e5-96ee-e5c03d7dfff1/image.png" width="100" height="100"/>
+</a>
 <br><strong>GitHub Advanced Security</strong>
 <br><sub>🏅 Nov 2024</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://images.credly.com/size/150x150/images/4bf30179-618a-4c1a-9951-03da0e872c02/image.png" width="100" height="100"/>
+<a href="https://www.credly.com/badges/github-copilot">
+<img src="https://images.credly.com/images/4bf30179-618a-4c1a-9951-03da0e872c02/image.png" width="100" height="100"/>
+</a>
 <br><strong>GitHub Copilot</strong>
 <br><sub>🏅 2024</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://images.credly.com/size/150x150/images/7907e7d4-71ee-43dd-aa4c-dcc0b61ebf98/image.png" width="100" height="100"/>
+<a href="https://www.credly.com/badges/github-admin">
+<img src="https://images.credly.com/images/7907e7d4-71ee-43dd-aa4c-dcc0b61ebf98/image.png" width="100" height="100"/>
+</a>
 <br><strong>GitHub Admin</strong>
 <br><sub>🏅 2024</sub>
 </td>
@@ -155,28 +165,31 @@ Here are some ideas to get you started:
 </table>
 
 ### ☁️ Cloud & Other Certifications
+
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://images.credly.com/size/150x150/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100" height="100"/>
+<a href="https://www.credly.com/badges/aws-certified-sysops-administrator-associate">
+<img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100" height="100"/>
+</a>
 <br><strong>AWS Certified SysOps</strong>
 <br><strong>Administrator Associate</strong>
 <br><sub>☁️ 2024</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/128/external-graduation-university-flaticons-flat-flat-icons.png" width="100" height="100"/>
+<img src="https://raw.githubusercontent.com/WillRaido/WillRaido/main/assets/university-icon.png" width="100" height="100" onerror="this.src='https://cdn-icons-png.flaticon.com/128/3002/3002543.png'"/>
 <br><strong>Systems Engineer</strong>
 <br><sub>University U Compensar</sub>
 <br><sub>🎓 2023</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-filled-outline-icons-maxicons/128/external-english-language-learning-filled-outline-filled-outline-icons-maxicons.png" width="100" height="100"/>
+<img src="https://raw.githubusercontent.com/WillRaido/WillRaido/main/assets/english-icon.png" width="100" height="100" onerror="this.src='https://cdn-icons-png.flaticon.com/128/3665/3665923.png'"/>
 <br><strong>Advanced English</strong>
 <br><sub>Academy Australia</sub>
 <br><sub>🗣️ 2023</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/128/external-requirements-agile-flaticons-lineal-color-flat-icons.png" width="100" height="100"/>
+<img src="https://raw.githubusercontent.com/WillRaido/WillRaido/main/assets/requirements-icon.png" width="100" height="100" onerror="this.src='https://cdn-icons-png.flaticon.com/128/2620/2620590.png'"/>
 <br><strong>Engineering of</strong>
 <br><strong>Requirements</strong>
 <br><sub>ASESOFTWARE SAS</sub>

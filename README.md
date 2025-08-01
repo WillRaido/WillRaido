@@ -177,19 +177,64 @@ Here are some ideas to get you started:
 <br><sub>☁️ 2024</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/WillRaido/WillRaido/main/assets/university-icon.png" width="100" height="100" onerror="this.src='https://cdn-icons-png.flaticon.com/128/3002/3002543.png'"/>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="45" fill="url(#grad1)" stroke="#1E293B" stroke-width="2"/>
+  <path d="M30 35 L70 35 L75 45 L70 55 L30 55 L25 45 Z" fill="white" opacity="0.9"/>
+  <circle cx="50" cy="65" r="8" fill="white" opacity="0.9"/>
+  <path d="M42 65 L58 65" stroke="white" stroke-width="2" opacity="0.9"/>
+  <path d="M46 69 L54 69" stroke="white" stroke-width="2" opacity="0.9"/>
+  <text x="50" y="40" text-anchor="middle" fill="white" font-size="8" font-family="Arial, sans-serif" font-weight="bold">SYSTEMS</text>
+  <text x="50" y="50" text-anchor="middle" fill="white" font-size="8" font-family="Arial, sans-serif" font-weight="bold">ENGINEER</text>
+</svg>
 <br><strong>Systems Engineer</strong>
 <br><sub>University U Compensar</sub>
 <br><sub>🎓 2023</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/WillRaido/WillRaido/main/assets/english-icon.png" width="100" height="100" onerror="this.src='https://cdn-icons-png.flaticon.com/128/3665/3665923.png'"/>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06B6D4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0891B2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="45" fill="url(#grad2)" stroke="#1E293B" stroke-width="2"/>
+  <ellipse cx="50" cy="40" rx="20" ry="8" fill="white" opacity="0.9"/>
+  <path d="M30 40 Q50 55 70 40" stroke="white" stroke-width="3" fill="none" opacity="0.9"/>
+  <circle cx="35" cy="50" r="3" fill="white" opacity="0.9"/>
+  <circle cx="50" cy="55" r="3" fill="white" opacity="0.9"/>
+  <circle cx="65" cy="50" r="3" fill="white" opacity="0.9"/>
+  <text x="50" y="75" text-anchor="middle" fill="white" font-size="10" font-family="Arial, sans-serif" font-weight="bold">ENGLISH</text>
+</svg>
 <br><strong>Advanced English</strong>
 <br><sub>Academy Australia</sub>
 <br><sub>🗣️ 2023</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/WillRaido/WillRaido/main/assets/requirements-icon.png" width="100" height="100" onerror="this.src='https://cdn-icons-png.flaticon.com/128/2620/2620590.png'"/>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="45" fill="url(#grad3)" stroke="#1E293B" stroke-width="2"/>
+  <rect x="25" y="25" width="50" height="35" rx="3" fill="white" opacity="0.9"/>
+  <line x1="30" y1="35" x2="70" y2="35" stroke="#F59E0B" stroke-width="2"/>
+  <line x1="30" y1="42" x2="65" y2="42" stroke="#F59E0B" stroke-width="1.5"/>
+  <line x1="30" y1="48" x2="60" y2="48" stroke="#F59E0B" stroke-width="1.5"/>
+  <line x1="30" y1="54" x2="55" y2="54" stroke="#F59E0B" stroke-width="1.5"/>
+  <circle cx="35" cy="70" r="4" fill="white" opacity="0.9"/>
+  <circle cx="50" cy="70" r="4" fill="white" opacity="0.9"/>
+  <circle cx="65" cy="70" r="4" fill="white" opacity="0.9"/>
+  <text x="50" y="85" text-anchor="middle" fill="white" font-size="8" font-family="Arial, sans-serif" font-weight="bold">REQUIREMENTS</text>
+</svg>
 <br><strong>Engineering of</strong>
 <br><strong>Requirements</strong>
 <br><sub>ASESOFTWARE SAS</sub>
@@ -197,7 +242,6 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
-
 </div>
 
 ---

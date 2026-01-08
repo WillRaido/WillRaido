@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 </td>
 <td align="center" width="20%">
 <a href="https://www.credly.com/badges/github-actions">
-<img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="100" height="100"/>
+<img src="https://learn.github.com/assets/badge-ghf--AVHlfQC.png" width="100" height="100"/>
 </a>
 <br><strong>GitHub Actions</strong>
 <br><sub>🏅 Dec 2024</sub>
